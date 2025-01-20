@@ -1,5 +1,7 @@
 🌱Greenify
+
 [Visit and download the app](https://drive.google.com/drive/folders/11d1muX8dj878GEW44f2KQI7EO5fmhwfv?usp=drive_link)
+
 Greenify is an innovative application designed to revolutionize the way we recycle waste wrappers and containers. Created for **Sustain-AI-Thon**, this app leverages cutting-edge technology to encourage and simplify sustainable living by promoting responsible recycling practices.
 
 ---
