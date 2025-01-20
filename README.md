@@ -142,7 +142,8 @@ Greenify addresses the problem of improper waste disposal by:
 	- Introduce an educational module for schools and colleges.
 
   
-
+## SDG GOALS ALIGNED
+- **Goal number 11,12,13 and 15**
 ---
 
   
