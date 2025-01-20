@@ -78,18 +78,13 @@ F --> G[Rewards & Incentives]
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React Native for a seamless cross-platform experience.
+- **App developement**: Android Studio.
 
-- **Backend**: Node.js with Express for API management.
+- **Tech**:Kotlin.
 
-- **Database**: MongoDB for efficient and scalable data handling.
+- **Database**: Google Drive.
 
-- **AI/ML**: TensorFlow for material recognition models.
-
-- **APIs**: Google Maps API for geolocation services.
-
-- **Cloud**: AWS for hosting and storage solutions.
-
+- **Version Control**:Git Bash.
   
 
 ---
